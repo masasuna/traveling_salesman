@@ -1,0 +1,1 @@
+Name	Name/Number	Arches	Monument_Valley	Salt_Lake_City	ZionName/Number	Number	1	2	3	4Arches	1	0	157	197	392Monument_Valley	2	157	0	397	218Salt_Lake_City	3	197	397	0	326Zion	4	392	218	326	0
